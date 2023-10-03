@@ -1,6 +1,12 @@
 # IoT Fire Classification Project
 
-![insert_project_image_link_here](https://cdn.britannica.com/90/191790-050-092C8C2A/Wildfire-Stanislaus-National-Forest-California-2013.jpg)
+<p align="center">
+  <a href="/">
+    <img src="https://cdn.britannica.com/90/191790-050-092C8C2A/Wildfire-Stanislaus-National-Forest-California-2013.jpg"
+         alt="csi_logo" width="900" height="400">
+  </a>
+</p>
+
 
 ## Overview
 
