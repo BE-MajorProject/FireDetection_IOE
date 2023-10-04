@@ -75,3 +75,6 @@ This project leverages Internet of Things (IoT) technology and machine learning 
 2. Connect Power BI to your Google Sheets data source to display real-time fire classification results.
 
 3. Share the Power BI dashboard with stakeholders for monitoring and decision-making.
+
+![image](https://github.com/BE-MajorProject/FireDetection_IOE/assets/83024561/d7f6522f-363b-4024-9821-1051014b0028)
+
