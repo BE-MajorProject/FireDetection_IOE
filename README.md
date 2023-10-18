@@ -1,6 +1,12 @@
 # IoT Fire Classification Project
 
-![insert_project_image_link_here](https://cdn.britannica.com/90/191790-050-092C8C2A/Wildfire-Stanislaus-National-Forest-California-2013.jpg)
+<p align="center">
+  <a href="/">
+    <img src="https://cdn.britannica.com/90/191790-050-092C8C2A/Wildfire-Stanislaus-National-Forest-California-2013.jpg"
+         alt="csi_logo" width="900" height="400">
+  </a>
+</p>
+
 
 ## Overview
 
@@ -69,3 +75,6 @@ This project leverages Internet of Things (IoT) technology and machine learning 
 2. Connect Power BI to your Google Sheets data source to display real-time fire classification results.
 
 3. Share the Power BI dashboard with stakeholders for monitoring and decision-making.
+
+![image](https://github.com/BE-MajorProject/FireDetection_IOE/assets/83024561/d7f6522f-363b-4024-9821-1051014b0028)
+
