@@ -76,5 +76,6 @@ This project leverages Internet of Things (IoT) technology and machine learning 
 
 3. Share the Power BI dashboard with stakeholders for monitoring and decision-making.
 
-![image](https://github.com/BE-MajorProject/FireDetection_IOE/assets/83024561/d7f6522f-363b-4024-9821-1051014b0028)
+![PowerBI Visualization](https://github.com/BE-MajorProject/FireDetection_IOE/assets/83024561/b2fdd280-624a-484b-a456-7d9849585435)
+
 
